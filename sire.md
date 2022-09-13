@@ -8,7 +8,7 @@
 Kicks:
 
 startLine
-{skull} Fernkauf, Wuthenglan, Vuzwillis, Zadskieloneal, Brakai
+{skull} Fernkauf, Wuthenglan, Vuzwillis, Zadskiloneal, Brakai
 {cross} Gromskale, Seraakdk, Kraganrg, Sceanureaves, Sirih
 endLine
 ```
@@ -17,14 +17,15 @@ endLine
 
 Fett = CDs
 
-Set #1
-Lord Evershade: Brakai, Fernkauf, Nachtlampe, Kiuma, Shadowdeathx, Wuthenglan, **__Seraak__**, **__Vuze__**, **__Kragan__**, Zadskieloneal, **__Gromskale__**
-Lady Sinseer: Hotti, Taralas, Scani, Sirih, **__Sariah__**, **__Shadownnay__**, **__Kuzari__**, Jaydr, Yilvina
+Set #1:
+Lord Evershade: **Seraak**, **Vuze**, **Kragan**, **Gromskale**, Brakai, Fernkauf, Nachtlampe, Kiuma, Shadowdeathx, Wuthenglan, Zadskiloneal
 
-Set #2
-Baron Duskhollow: **__Zadskieloneal__**, **Sirih__**, Gromsakle, Brakai, Fernkauf, Nachtlampe, Kiuma, Seraak, Vuze, Kragan
+Lady Sinseer: **Sariah**, **Shadownnay**, **Kuzari**, Hotti, Taralas, Scani, Sirih, Jaydr, Yilvina
 
-Countess Gloomveil: **__Scani__**, **__Wuthenglan__**, **__Hotti__**, **__Taralas__**, Shadowdeathx, Kuzari, Sariah, Shadownnay, Jaydr, Yilvina
+Set #2:
+Baron Duskhollow: **Zadskiloneal**, **Sirih**, Gromsakle, Brakai, Fernkauf, Nachtlampe, Kiuma, Seraak, Vuze, Kragan
+
+Countess Gloomveil: **Scani**, **Wuthenglan**, **Hotti**, **Taralas**, Shadowdeathx, Kuzari, Sariah, Shadownnay, Jaydr, Yilvina
 
 ## Phase 3
 

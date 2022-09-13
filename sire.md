@@ -18,12 +18,13 @@ endLine
 Fett = CDs
 
 Set #1
-Lord Evershade: Brakai, Fernkauf, Nachtlampe, Kiuma, Shadowdeathx, Wuthenglan, **Seraak**, **Vuze**, **Kragan**, Zadskieloneal, **Gromskale**
-Lady Sinseer: Hotti, Taralas, Scani, Sirih, **Sariah**, **Shadownnay**, **Kuzari**, Jaydr, Yilvina
+Lord Evershade: Brakai, Fernkauf, Nachtlampe, Kiuma, Shadowdeathx, Wuthenglan, **__Seraak__**, **__Vuze__**, **__Kragan__**, Zadskieloneal, **__Gromskale__**
+Lady Sinseer: Hotti, Taralas, Scani, Sirih, **__Sariah__**, **__Shadownnay__**, **__Kuzari__**, Jaydr, Yilvina
 
 Set #2
-Baron Duskhollow: **Zadskieloneal**, **Sirih**, Gromsakle, Brakai, Fernkauf, Nachtlampe, Kiuma, Seraak, Vuze, Kragan
-Countess Gloomveil: **Scani**, **Wuthenglan**, **Hotti**, **Taralas**, Shadowdeathx, Kuzari, Sariah, Shadownnay, Jaydr, Yilvina
+Baron Duskhollow: **__Zadskieloneal__**, **Sirih__**, Gromsakle, Brakai, Fernkauf, Nachtlampe, Kiuma, Seraak, Vuze, Kragan
+
+Countess Gloomveil: **__Scani__**, **__Wuthenglan__**, **__Hotti__**, **__Taralas__**, Shadowdeathx, Kuzari, Sariah, Shadownnay, Jaydr, Yilvina
 
 ## Phase 3
 

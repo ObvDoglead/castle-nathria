@@ -15,3 +15,7 @@
 
 ## Weakaura-Packs
 [Castle-Paket](https://wago.io/0VCjmBeD0)
+
+## Weitere Ressources
+[Sanctum of Domination](https://github.com/ObvDoglead/sanctum-of-domination)
+[Sepulcher of the First ones](https://github.com/ObvDoglead/sepulcher-of-the-first-ones)

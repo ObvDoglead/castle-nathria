@@ -30,6 +30,7 @@ Countess Gloomveil: **Scani**, **Wuthenglan**, **Hotti**, **Taralas**, Shadowdea
 ## Phase 3
 
 Mirror: Melees + Taralas (BL nach zweiten Bloodprice)
+
 Normal: Ranges + Hotti (BL nach ersten Bloodprice)
 
 ## Phase 3 Bilder

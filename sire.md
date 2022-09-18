@@ -23,7 +23,7 @@ Lord Evershade: **Seraak**, **Shadowdeathx**, **Vuze**, **Kragan**, **Gromskale*
 Lady Sinseer: **Sariah**, **Shadownnay**, **Kuzari**, **Yama**, Taralas, Scani, Sirih, Jaydr, Yilvina
 
 Set #2 (~3:00):
-Baron Duskhollow: Zadskiloneal, **Sirih**, Gromsakle, Brakai, Fernkauf, Kuzari, Yama, Nachtlampe, Kiuma, Vuze, Kragan
+Baron Duskhollow: Zadskiloneal, **Sirih**, Gromskale, Brakai, Fernkauf, Kuzari, Yama, Nachtlampe, Kiuma, Vuze, Kragan
 
 Countess Gloomveil: **Scani**, **Wuthenglan**, **Taralas**, Shadowdeathx, Sariah, Shadownnay, Jaydr, Yilvina
 

@@ -17,21 +17,21 @@ endLine
 
 Fett = CDs
 
-Set #1:
+Set #1 (~2:00):
 Lord Evershade: **Seraak**, **Vuze**, **Kragan**, **Gromskale**, Brakai, Fernkauf, Nachtlampe, Kiuma, Shadowdeathx, Wuthenglan, Zadskiloneal
 
 Lady Sinseer: **Sariah**, **Shadownnay**, **Kuzari**, Hotti, Taralas, Scani, Sirih, Jaydr, Yilvina
 
-Set #2:
+Set #2 (~3:00):
 Baron Duskhollow: **Zadskiloneal**, **Sirih**, Gromsakle, Brakai, Fernkauf, Nachtlampe, Kiuma, Seraak, Vuze, Kragan
 
 Countess Gloomveil: **Scani**, **Wuthenglan**, **Hotti**, **Taralas**, Shadowdeathx, Kuzari, Sariah, Shadownnay, Jaydr, Yilvina
 
 ## Phase 3
 
-Mirror: Melees + Taralas (BL nach zweiten Bloodprice)
+Mirror: Melees + Taralas (BL nach ersten Bloodprice 6:30~)
 
-Normal: Ranges + Hotti (BL nach ersten Bloodprice)
+Normal: Ranges + Yama (BL nach ersten Bloodprice 6:30~)
 
 ## Phase 3 Bilder
 [sUpEr EaSy TaCtIc](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYSi1_Yio1qAvl07FSNtX1Gu6_cwkxzAHgYa3nAc8Qhi6-wF1Zl9rx0Rmz3EIijGveveuKRBOM4PDI/pubhtml)

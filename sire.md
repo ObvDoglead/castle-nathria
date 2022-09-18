@@ -18,20 +18,20 @@ endLine
 Fett = CDs
 
 Set #1 (~2:00):
-Lord Evershade: **Seraak**, **Vuze**, **Kragan**, **Gromskale**, Brakai, Fernkauf, Nachtlampe, Kiuma, Shadowdeathx, Wuthenglan, Zadskiloneal
+Lord Evershade: **Seraak**, **Shadowdeathx**, **Vuze**, **Kragan**, **Gromskale**, Seraak, Brakai, Fernkauf, Nachtlampe, Kiuma, Wuthenglan, Zadskiloneal
 
-Lady Sinseer: **Sariah**, **Shadownnay**, **Kuzari**, Hotti, Taralas, Scani, Sirih, Jaydr, Yilvina
+Lady Sinseer: **Sariah**, **Shadownnay**, **Kuzari**, **Yama**, Taralas, Scani, Sirih, Jaydr, Yilvina
 
 Set #2 (~3:00):
-Baron Duskhollow: **Zadskiloneal**, **Sirih**, Gromsakle, Brakai, Fernkauf, Nachtlampe, Kiuma, Seraak, Vuze, Kragan
+Baron Duskhollow: Zadskiloneal, **Sirih**, Gromsakle, Brakai, Fernkauf, Kuzari, Yama, Nachtlampe, Kiuma, Vuze, Kragan
 
-Countess Gloomveil: **Scani**, **Wuthenglan**, **Hotti**, **Taralas**, Shadowdeathx, Kuzari, Sariah, Shadownnay, Jaydr, Yilvina
+Countess Gloomveil: **Scani**, **Wuthenglan**, **Taralas**, Shadowdeathx, Sariah, Shadownnay, Jaydr, Yilvina
 
 ## Phase 3
 
-Mirror: Melees + Taralas (BL nach ersten Bloodprice 6:30~)
+Mirror: Melees + Taralas (BL bei ersten Chaotic Essences 6:30~)
 
-Normal: Ranges + Yama (BL nach ersten Bloodprice 6:30~)
+Normal: Ranges + Yama (BL bei ersten Chaotic Essences 6:30~)
 
 ## Phase 3 Bilder
 [sUpEr EaSy TaCtIc](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYSi1_Yio1qAvl07FSNtX1Gu6_cwkxzAHgYa3nAc8Qhi6-wF1Zl9rx0Rmz3EIijGveveuKRBOM4PDI/pubhtml)

@@ -14,7 +14,7 @@
 - [Sire](sire.md)
 
 ## Weakaura-Packs
-[Castle-Paket](https://wago.io/0VCjmBeD0)
+[Castle-Paket](https://wago.io/28LGoZ_Ei)
 
 ## Weitere Ressources
 - [Sanctum of Domination](https://github.com/ObvDoglead/sanctum-of-domination)

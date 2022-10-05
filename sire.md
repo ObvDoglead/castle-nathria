@@ -8,7 +8,7 @@
 Kicks:
 
 startLine
-{skull} Fernkauf, Wuthenglan, Vuzwillis, Zadskiloneal, Brakai
+{skull} Fernkauf, Smiledh, Yama, Zadskiloneal, Brakai
 {cross} Gromskale, Seraakdk, Kraganrg, Sceanureaves, Sirih
 endLine
 ```
@@ -18,20 +18,20 @@ endLine
 Fett = CDs
 
 Set #1 (~2:00):
-Lord Evershade: **Seraak**, **Shadowdeathx**, **Vuze**, **Kragan**, **Gromskale**, Seraak, Brakai, Fernkauf, Nachtlampe, Kiuma, Wuthenglan, Zadskiloneal
+Lord Evershade: **Seraak**, **Shadowdeathx**, **Vuze**, **Kragan**, **Gromskale**, **Yama**, Seraak, Brakai, Fernkauf, Nachtlampe, Kiuma, Zadskiloneal
 
-Lady Sinseer: **Sariah**, **Shadownnay**, **Kuzari**, **Yama**, Taralas, Scani, Sirih, Jaydr, Yilvina
+Lady Sinseer: **Sariah**, **Shadownnay**, **Kuzari**, Taralas, Scani, Sirih, Jaydr, Yilvina
 
 Set #2 (~3:00):
 Baron Duskhollow: Zadskiloneal, **Sirih**, Gromskale, Brakai, Fernkauf, Kuzari, Yama, Nachtlampe, Kiuma, Vuze, Kragan
 
-Countess Gloomveil: **Scani**, **Wuthenglan**, **Taralas**, Shadowdeathx, Sariah, Shadownnay, Jaydr, Yilvina
+Countess Gloomveil: **Scani**, **Smiledh**, **Taralas**, Shadowdeathx, Sariah, Shadownnay, Jaydr, Yilvina
 
 ## Phase 3
 
 Mirror: Melees + Taralas (BL bei ersten Chaotic Essences 6:30~)
 
-Normal: Ranges + Yama (BL bei ersten Chaotic Essences 6:30~)
+Normal: Ranges + Hotti (BL bei ersten Chaotic Essences 6:30~)
 
 ## Phase 3 Bilder
 [sUpEr EaSy TaCtIc](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYSi1_Yio1qAvl07FSNtX1Gu6_cwkxzAHgYa3nAc8Qhi6-wF1Zl9rx0Rmz3EIijGveveuKRBOM4PDI/pubhtml)

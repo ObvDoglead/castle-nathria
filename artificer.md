@@ -6,6 +6,6 @@
 Seeds:
 {triangle} Tralâs Backup: Kuzari
 {diamond} Sceanureaves Backup: Yama
-{circle} Wuthenglan Backup: Smiledh
+{circle} Smiledh Backup: Jessina
 {star} Sîrih Backup: Hôtti
 ```

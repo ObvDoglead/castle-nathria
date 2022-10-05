@@ -11,5 +11,5 @@
 {moon} Kuzari
 {square} Yama
 {cross} Sariah
-{skull} Shadowdeathx
+{skull} Seraakwl
 ```

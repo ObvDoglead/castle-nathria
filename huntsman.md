@@ -4,7 +4,6 @@
 ## Note
 ```
 Soaks ab P2
-#1 Yama + Nachtlampe
-#2 Smile + Wuthenglan
-#3 Hotti + Taralas
+#1 Yama + Smile
+#2 Tarra + Taralas 
 ```
